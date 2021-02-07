@@ -94,7 +94,7 @@ body {
     color: #cd6326;
 }
 .survival__text {
-    max-width: 275px;
+    width: 275px;
     margin-bottom: 50px;
     font-weight: normal;
     font-size: 18px;
